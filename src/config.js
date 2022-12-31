@@ -1,12 +1,12 @@
 // Config
 
 const config = {
-	CHAINID      : 1,
-	CHAINTYPE    : 'IoTeX',
+	CHAINID      : 2330,
+	CHAINTYPE    : 'Altcoinchain',
 	NETWORK      : 'mainnet',
-	NETURL       : 'https://babel-api.mainnet.iotex.io',
+	NETURL       : 'https://rpc0.altcoinchain.org/rpc',
 	GATEWAY      : 'https://ipfs.io/ipfs/',
-	EXPLORER     : 'https://iotexscan.io',
+	EXPLORER     : 'http://expedition.altcoinchain.org/',
 	GASPRICE     : 10000000000000,
 	GASLIMIT     :   10000,
 	BuyerFees    : 2,  // 2%
