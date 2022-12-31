@@ -9,11 +9,9 @@ module.exports = {
           mnemonic: {
             phrase: MNEMONIC,
           },
-          providerOrUrl: "https://babel-api.testnet.iotex.io",
-          shareNonce: true
         }),
-      network_id: 4690,    // IOTEX mainnet chain id 4689, testnet is 4690
-      gas: 8500000,
+      network_id: 2330,    // IOTEX mainnet chain id 4689, testnet is 4690
+      gas: 3000000,
       gasPrice: 1000000000000,
       skipDryRun: true
     }
